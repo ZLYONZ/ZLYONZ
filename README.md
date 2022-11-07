@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZLYONZ
+- 👋 Hi, I’m Letao Zhang, Lyon
 - 👀 I’m interested in Apple
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS develper.
