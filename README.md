@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyon Zhang</h1>
-<h3 align="center">A passionate iOS developer, driven by a fervent commitment to crafting outstanding user experiences</h3>
+<h3 align="center">A passionate iOS Developer</h3>
 
 - 🔭 I’m currently working on [Ruby iOS Application](https://apps.apple.com/us/app/ruby-shop-with-coupons-codes/id1543508948)
 
@@ -9,7 +9,9 @@
 
 - 🤝 I’m enthusiastic about **leveraging technical expertise and unwavering determination to pioneer innovative iOS solutions**
 
-- 📫 How to reach me **lyonzlt@gmail.com**
+- 👨‍💻 I'm driven by **a fervent commitment to crafting outstanding user experiences**
+
+- 📫 How to reach me **lyonzlt@gmail.com** **848-391-7555**
 
 - ⚡ Fun fact **I have a cat**
 
