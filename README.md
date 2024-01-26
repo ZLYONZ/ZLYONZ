@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently mastering **Swift and SwiftUI**
 
+- 👯 I’m proficient in **the art of designing and implementing iOS applications**
+
+- 🤝 I’m enthusiastic about **leveraging technical expertise and unwavering determination to pioneer innovative iOS solutions**
+
 - 📫 How to reach me **lyonzlt@gmail.com**
 
 - ⚡ Fun fact **I have a cat**
